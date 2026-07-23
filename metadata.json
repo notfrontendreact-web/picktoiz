@@ -1,0 +1,6 @@
+{
+  "name": "پیکو تویز | فروشگاه آنلاین اسباب بازی",
+  "description": "فروشگاه تخصصی اسباب بازی، بازی فکری، عروسک و اسباب‌بازی‌های آموزشی با فیلتر سنی و دستیار هوشمند هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
