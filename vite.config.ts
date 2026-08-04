@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/picktoiz/', // 👈 مطمئن شوید این خط با نام دقیق ریپازیتوری گیت‌هاب شما یکی است
+   base: '/', // 👈 مطمئن شوید این خط با نام دقیق ریپازیتوری گیت‌هاب شما یکی است
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
